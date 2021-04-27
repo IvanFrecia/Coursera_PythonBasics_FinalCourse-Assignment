@@ -35,3 +35,4 @@ Question Five:
 # how much is in stock, and how much it costs. Print out each item in the list with the same formatting,
 # using the .format method (not string concatenation).
 # For example, the first print statment should read The store has 12 shoes, each for 29.99 USD."
+
